@@ -46,6 +46,4 @@ def predict():
     else:
         return jsonify({'error': 'No input provided'}), 400
 
-# Run the app (for local testing, not needed in Vercel)
-if __name__ == '__main__':
-    app.run(debug=True)
+
