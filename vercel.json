@@ -12,7 +12,7 @@
       "use": "@vercel/python"
     },
     {
-      "src": "api/predict.py",
+      "src": "api/prif.py",
       "use": "@vercel/python"
     }
   ]
