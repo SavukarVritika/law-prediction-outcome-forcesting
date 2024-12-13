@@ -16,7 +16,7 @@ with open('tfidf_vectorizer.pkl', 'rb') as file:
     tfidf_vectorizer = pickle.load(file)
 
 # Dummy training data for similarity check (Replace with actual training data)
-X_train = ["dummy case facts"]  # Replace this with actual case facts data
+X_train = ["Case Facts"]  # Replace this with actual case facts data
 
 # Function to check if the input is valid based on cosine similarity
 def is_input_valid(new_input, X_train):
