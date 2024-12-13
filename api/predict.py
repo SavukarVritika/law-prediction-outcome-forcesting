@@ -1,19 +1,11 @@
-
 from flask import Flask, request, jsonify
 import pickle
 import numpy as np
-from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
 app = Flask(__name__)
 
-@app.route("/api/predict", methods=["POST"])
-def predict():
-    data = request.json
-    # Add your prediction logic here
-    return jsonify({"result": "Prediction successful!"})
-
-
+# Load the trained model and vectorizer
 with open('model_law.pkl', 'rb') as file:
     model_law = pickle.load(file)
 
@@ -23,7 +15,10 @@ with open('model_outcome.pkl', 'rb') as file:
 with open('tfidf_vectorizer.pkl', 'rb') as file:
     tfidf_vectorizer = pickle.load(file)
 
-# Function to check if input is valid (based on cosine similarity)
+# Dummy training data for similarity check (Replace with actual training data)
+X_train = ["dummy case facts"]  # Replace this with actual case facts data
+
+# Function to check if the input is valid based on cosine similarity
 def is_input_valid(new_input, X_train):
     new_input_tfidf = tfidf_vectorizer.transform([new_input])
     similarity_scores = cosine_similarity(new_input_tfidf, tfidf_vectorizer.transform(X_train))
@@ -31,25 +26,26 @@ def is_input_valid(new_input, X_train):
     return max_similarity >= 0.5
 
 # API endpoint to predict the relevant law and outcome
-@app.route('/predict', methods=['POST'])
+@app.route('/api/predict', methods=['POST'])
 def predict():
-    data = request.get_json()
-    new_input = data['input']
+    data = request.get_json()  # Get the input data from the request
+    new_input = data.get('input')  # Extract the 'input' field from the request data
 
-    # Here, you should pass X_train from your model, this could be an array of case facts or some stored data
-    X_train = ["dummy data"]  # Replace this with the actual training data
+    if new_input:  # Check if input is provided
+        if is_input_valid(new_input, X_train):  # Check if the input is valid based on cosine similarity
+            new_input_tfidf = tfidf_vectorizer.transform([new_input])  # Transform input to TF-IDF
+            predicted_law = model_law.predict(new_input_tfidf)[0]  # Predict the relevant law
+            predicted_outcome = model_outcome.predict(new_input_tfidf)[0]  # Predict the outcome
 
-    if is_input_valid(new_input, X_train):
-        new_input_tfidf = tfidf_vectorizer.transform([new_input])
-        predicted_law = model_law.predict(new_input_tfidf)[0]
-        predicted_outcome = model_outcome.predict(new_input_tfidf)[0]
-        return jsonify({
-            'predicted_law': predicted_law,
-            'predicted_outcome': predicted_outcome
-        })
+            return jsonify({
+                'predicted_law': predicted_law,
+                'predicted_outcome': predicted_outcome
+            })
+        else:
+            return jsonify({'error': 'Input is out of bounds or too different from training data'}), 400
     else:
-        return jsonify({'error': 'Input is out of bounds or too different from training data'}), 400
+        return jsonify({'error': 'No input provided'}), 400
 
+# Run the app (for local testing, not needed in Vercel)
 if __name__ == '__main__':
     app.run(debug=True)
-
