@@ -8,7 +8,7 @@
   ],
   "builds": [
     {
-      "src": "api/*.py",
+      "src": "api/prif.py",
       "use": "@vercel/python"
     },
     {
