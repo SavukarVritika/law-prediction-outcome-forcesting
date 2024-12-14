@@ -5,7 +5,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 
 app = Flask(__name__)
 
-# Load the trained model and vectorizer
+# Load the trained models and vectorizer
 with open('model_law.pkl', 'rb') as file:
     model_law = pickle.load(file)
 
@@ -32,7 +32,7 @@ def predict():
     new_input = data.get('input')  # Extract the 'input' field from the request data
 
     if new_input:  # Check if input is provided
-        if is_input_valid(new_input, X_train):  # Check if the input is valid based on cosine similarity
+        if is_input_valid(new_input, X_train):  # Check if the input is valid
             new_input_tfidf = tfidf_vectorizer.transform([new_input])  # Transform input to TF-IDF
             predicted_law = model_law.predict(new_input_tfidf)[0]  # Predict the relevant law
             predicted_outcome = model_outcome.predict(new_input_tfidf)[0]  # Predict the outcome
@@ -47,3 +47,5 @@ def predict():
         return jsonify({'error': 'No input provided'}), 400
 
 
+if __name__ == '__main__':
+    app.run(debug=True)
