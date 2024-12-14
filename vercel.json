@@ -11,5 +11,11 @@
       "src": "api/predict.py",
       "use": "@vercel/python"
     }
+    {
+  "functions": {
+    "api/*": { "runtime": "python3.9" }
+  }
+}
+
   ]
 }
