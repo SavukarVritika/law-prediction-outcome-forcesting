@@ -1,0 +1,373 @@
+Case ID,Case Facts,Outcome,Relevant Law,Date,Location
+1,"Caught speeding at 120 km/h in a 60 km/h zone, arguing that the speed limit signs were not visible.","Fined 2,000","Motor Vehicles Act, 1988, Section 183 (Speeding) 183-183",15-01-24,Delhi
+2,"Ran a red light and collided with another vehicle, claiming he didn't see the signal change.","Fined 5,000 and license suspension for 3 months","Motor Vehicles Act, 1988, Section on Traffic Signals",20-02-24,Mumbai
+3,"Booked for driving without a helmet while riding a motorcycle, claiming he was in a hurry to attend a family emergency.","Fined 1,000","Motor Vehicles Act, 1988, Section 129 (Helmets) 129-129",10-03-24,Bengaluru
+4,"Caused an accident while using a mobile phone, claiming he was just checking the time.","Convicted for negligent driving; fined 3,000","Motor Vehicles Act, 1988, Section 184 (Negligent Driving) 184-184",05-04-24,Chennai
+5,"Parked in a no-parking zone, arguing that he was only away for a few minutes.",Fined 500,"Motor Vehicles Act, 1988, Section 177 (Parking Violations) 177-177",12-05-24,Kolkata
+6,"Accused of overloading his vehicle with passengers, stating he was unaware of the limits.","Fined 2,000 and vehicle impounded","Motor Vehicles Act, 1988, Section 194 (Overloading) 194-194",18-06-24,Hyderabad
+7,"Charged with reckless driving after causing an accident while racing with another vehicle.","Convicted; sentenced to 1 year imprisonment","Motor Vehicles Act, 1988, Section 183 (Reckless Driving) 183-183",22-07-24,Pune
+8,"Refused to pay a fine for not displaying a PUC certificate, claiming he had a valid one.","Fined 1,000 after failing to produce the certificate","Motor Vehicles Act, 1988, Section 190 (Pollution Control) 190-190",30-08-24,Ahmedabad
+9,"Involved in a hit-and-run accident, claiming he did not realize he hit another vehicle.",Convicted sentenced to 6 months in jail,IPC Section 279 (Rash Driving) 279-279,15-09-24,Surat
+10,"Found driving without a valid license; claimed he had applied for it but did not receive it yet.","Fined 5,000","Motor Vehicles Act, 1988, Section 3 (Driving License) 3-3",02-10-24,Jaipur
+11,"Caught driving an unregistered vehicle, arguing that he was unaware of the registration requirement.","Fined 3,000","Motor Vehicles Act, 1988, Section 39 (Registration of Motor Vehicles) 39-39",12-10-24,Kanpur
+12,"Charged with dangerous driving after swerving dangerously to avoid a pothole, causing another driver to crash.","Convicted; fined 5,000","Motor Vehicles Act, 1988, Section 184 (Dangerous Driving) 184-184",17-10-24,Lucknow
+13,"Accused of driving without a valid PUC certificate, claiming he had just lost it.","Fined 1,000","Motor Vehicles Act, 1988, Section 190 (Pollution Control) 190-190",20-10-24,Agra
+14,"Stopped for not using seat belts; claimed they were uncomfortable.","Fined 1000","Motor Vehicles Act, 1988, Section 138 (Seat Belts) 138-138",25-10-24,Nashik
+15,"Involved in a fatal accident while driving under the influence of alcohol claimed he had only a few drinks.","Convicted sentenced to 3 years in jail","Motor Vehicles Act, 1988, Section 185 (Driving Under Influence) 185-185",30-10-24,Chandigarh
+16,"Parked in a reserved space for handicapped individuals without a permit.","Fined 2,000","Motor Vehicles Act, 1988, Section 177 (Unauthorized Parking) 177-177",01-11-24,Delhi
+17,"Accused of jaywalking and claimed he was crossing at an unmarked point.","Fined 500","Motor Vehicles Act, 1988, Section on pedestrian crossings",05-11-24,Mumbai
+18,"Found driving with a fake license, claiming he was misled by a driving school.","Conviction; fined 10,000",IPC Section 420 (Cheating) 420-420,12-11-24,Bengaluru
+19,"Failed to stop for an emergency vehicle, arguing he was stuck in traffic.","Fined 3,000","Motor Vehicles Act, 1988, Section 123 (Emergency Vehicles) 123-123",15-11-24,Chennai
+20,"Charged with road rage after threatening another driver with a weapon.,Convicted", sentenced to 1 year in jail,IPC Section 506 (Criminal Intimidation) 506-506,20-11-24,Kolkata
+21,"Fined for driving a motorcycle without proper headlights at night, claiming they were malfunctioning.","Fined 1,000","Motor Vehicles Act, 1988, Section 7 (Lights) 7-7",25-11-24,Hyderabad
+22,"Involved in a collision while driving a vehicle with a malfunctioning brake, claiming he had no prior knowledge.",Ruled liable for damages,"Motor Vehicles Act, 1988, Section 134 (Accident Reporting) 134-134",30-11-24,Pune
+23,"Caught riding a bicycle on a highway, arguing it was a shortcut.",Fined 500,"Motor Vehicles Act, 1988, Section 2(28) (Non-Motorized Vehicles) 2(28)-2(28)",02-12-24,Surat
+24,"Fined for failing to renew his vehicle insurance stated he forgot due to personal issues.","Fined 2,000","Motor Vehicles Act, 1988, Section 146 (Insurance) 146-146",07-12-24,Jaipur
+25,"Involved in a collision while driving a vehicle with expired registration claimed it was an administrative error.",Ruled liable for damages,"Motor Vehicles Act, 1988, Section 39 (Registration of Motor Vehicles) 39-39",10-12-24,Kanpur
+26,"F was driving under the influence of alcohol and caused a minor accident. He claimed he only had one drink.","Fined 10,000 and 6 months suspension of license","Motor Vehicles Act, 1988, Section 185 (Article 185) (Drunken Driving)",15-12-24,Lucknow
+27,"H failed to stop at a pedestrian crossing, endangering pedestrians.","Fined 2,500","Motor Vehicles Act, 1988, Section 177 (Article 177) (Violation of Traffic Rules)",20-12-24,Agra
+28,"I was caught speeding at 90 km/h in a 40 km/h zone near a school.,"Fined 3,000","Motor Vehicles Act, 1988, Section 183 (Article 183) (Speeding)",25-12-24,Nashik
+29,"K was found driving without proper registration papers.","Fined 2,000","Motor Vehicles Act, 1988, Section 39 (Article 39) (Vehicle Registration)",30-12-24,Chandigarh
+30,"L was caught speeding through a toll booth without paying the toll, claiming he had no cash.","Fined 2,500","Motor Vehicles Act, 1988, Section 177 (Article 177) (Toll Violation)",31-12-24,Delhi
+31,"M was driving a car emitting excessive smoke, failing to meet emission standards.","Fined 4,000 and required inspection","Motor Vehicles Act, 1988, Section 190 (Article 190) (Pollution Control)",05-01-21,Delhi
+32,"N parked his car on a sidewalk, blocking pedestrian access, and argued the parking lot was full.","Fined 1,200","Motor Vehicles Act, 1988, Section 177 (Article 177) (Illegal Parking)",10-01-21,Mumbai
+33,"O failed to yield to an ambulance, claiming there was no space to pull over.","Fined 3,500","Motor Vehicles Act, 1988, Section 194 (Article 194) (Obstructing Emergency Vehicles)",15-01-21,Bengaluru
+34,"P overtook a vehicle on a narrow bridge, leading to a minor collision.","Fined 2,000","Motor Vehicles Act, 1988, Section 177 (Article 177) (Dangerous Overtaking)",20-01-21,Chennai
+35,"Q was driving on the wrong side of a one-way street, claiming unfamiliarity with the area.","Fined 1,500","Motor Vehicles Act, 1988, Section 184 (Article 184) (Dangerous Driving)",25-01-21,Kolkata
+36,"R was caught driving a vehicle with tinted windows darker than the legal limit.","Fined 2,000","Motor Vehicles Act, 1988, Section 100 (Article 100) (Window Tint Regulation)",01-02-21,Hyderabad
+37,"S was stopped for not having functioning tail lights during night driving.","Fined 1,000","Motor Vehicles Act, 1988, Section 177 (Article 177) (Vehicle Maintenance)",05-02-21,Pune
+38,"T ran a stop sign, causing a near accident at a busy intersection.","Fined 3,000","Motor Vehicles Act, 1988, Section 177 (Article 177) (Traffic Signal Violation)",10-02-21,Surat
+39,"U was caught street racing with another car on a public road late at night.,"Fined 10,000 and vehicle impounded","Motor Vehicles Act, 1988, Section 189 (Article 189) (Speed Racing)",15-02-21,Jaipur
+40,"V drove a vehicle that exceeded the maximum permissible load on a highway, causing damage to the road.","Fined 7,500 and required to reduce load","Motor Vehicles Act, 1988, Section 113 (Article 113) (Overloading)",20-02-21,Kanpur
+41,"W was fined for using high-beam headlights in a crowded residential area, blinding other drivers.","Fined 1,500","Motor Vehicles Act, 1988, Section 177 (Article 177) (Improper Use of Headlights)",25-02-21,Lucknow
+42,"X drove a vehicle without a valid pollution certificate, claiming he forgot to renew it.","Fined 2,500 and required to renew","Motor Vehicles Act, 1988, Section 190 (Article 190) (Pollution Control)",01-03-21,Agra
+43,"Y was found driving with bald tires and inadequate tire tread depth, creating a safety hazard.","Fined 3,500 and required to replace the tires","Motor Vehicles Act, 1988, Section 177 (Article 177) (Unsafe Vehicle Condition)",05-03-21,Nashik
+44,"Z was caught driving without headlights on at night, claiming his vehicles headlight was broken.","Fined 2,000","Motor Vehicles Act, 1988, Section 177 (Article 177) (Driving Without Lights)",10-03-21,Chandigarh
+45,"AA was caught driving a motorcycle with more than two passengers. He argued it was just a short distance.","Fined 1,500","Motor Vehicles Act, 1988, Section 128 (Article 128) (Overloading on Two-wheelers)",15-03-21,Delhi
+46,"BB ignored a railway crossing signal and drove across as the train was approaching.,Fined 5000","Motor Vehicles Act, 1988, Section 131 (Article 131) (Railway Crossing Violation)",20-03-21,Delhi
+47,"CC was found driving a commercial vehicle without the necessary permit and claimed he didnt know it was expired.","Fined 6,000","Motor Vehicles Act, 1988, Section 66 (Article 66) (Permit Violation)",25-03-21,Mumbai
+48,"DD was stopped for driving without wearing proper footwear, impacting his ability to control the vehicle.","Fined 1,000","Motor Vehicles Act, 1988, Section 177 (Article 177) (Improper Driving Equipment)",30-03-21,Bengaluru
+49,"EE was caught doing stunts on a public road with his motorbike, risking the safety of other road users.","Fined 8,000","Motor Vehicles Act, 1988, Section 189 (Article 189) (Reckless Driving)",05-04-21,Chennai
+50,"FF was found driving in a restricted lane designated for emergency vehicles.","Fined 3,500","Motor Vehicles Act, 1988, Section 194 (Article 194) (Misuse of Emergency Lanes)",10-04-21,Kolkata
+51,"GG drove past a stopped school bus while children were disembarking, nearly causing an accident.","Fined 4,000","Motor Vehicles Act, 1988, Section 184 (Article 184) (Reckless Endangerment)",15-04-21,Hyderabad
+52,"HH refused to stop at a toll gate and forcibly passed through, arguing the system wasnt working properly.","Fined 2,000","Motor Vehicles Act, 1988, Section 177 (Article 177) (Toll Evasion)",20-04-21,Pune
+53,"II was using a loud horn in a silent zone near a hospital, disturbing the patients inside.","Fined 1,500","Motor Vehicles Act, 1988, Section 190 (Article 190) (Noise Pollution)",25-04-21,Surat
+54,"JJ was caught with an expired vehicle insurance and claimed he was unaware of the renewal date.","Fined 2,500","Motor Vehicles Act, 1988, Section 196 (Article 196) (Driving Without Insurance)",30-04-21,Jaipur
+55,"KK was found obstructing a fire lane by parking his car there and claimed it was only for a few minutes.","Fined 2,000","Motor Vehicles Act, 1988, Section 177 (Article 177) (Blocking Emergency Lanes)",05-05-21,Kanpur
+56,"LL was driving while excessively using his mobile phone for navigation, leading to a near collision.","Fined 3,000","Motor Vehicles Act, 1988, Section 184 (Article 184) (Distracted Driving)",10-05-21,Lucknow
+58,"NN was caught driving in a high-occupancy vehicle (HOV) lane with only one person in the car.","Fined 2,500","Motor Vehicles Act, 1988, Section 177 (HOV Lane Violation) 177",20-05-21,Nashik
+59,"OO was caught driving a vehicle with an expired fitness certificate, stating he forgot to renew it.","Fined 2,500","Motor Vehicles Act, 1988, Section 56 (Fitness Certificate) 56",25-05-21,Chandigarh
+60,"PP was driving in heavy rain without proper windshield wipers, compromising his visibility.","Fined 1,500","Motor Vehicles Act, 1988, Section 177 (Unsafe Driving Conditions) 177",30-05-21,Delhi
+61,"QQ was caught transporting goods in a passenger vehicle, overloading it beyond its capacity.","Fined 3,000","Motor Vehicles Act, 1988, Section 113 (Overloading) 113",01-06-21,Delhi
+62,"RR was caught driving in the opposite direction on a one-way street, stating he was following GPS directions.","Fined 2,000","Motor Vehicles Act, 1988, Section 184 (Driving in Wrong Direction) 184",05-06-21,Mumbai
+63,"SS failed to slow down at a pedestrian crossing in a school zone, almost hitting a child.","Fined 5,000","Motor Vehicles Act, 1988, Section 177 (School Zone Violation) 177",10-06-21,Bengaluru
+64,"TT was driving with expired registration plates and claimed he had already applied for new ones.","Fined 2,000","Motor Vehicles Act, 1988, Section 39 (Vehicle Registration) 39",15-06-21,Chennai
+65,"UU was caught using a vehicle that lacked proper side mirrors, which created a safety hazard on the road.","Fined 1,500","Motor Vehicles Act, 1988, Section 177 (Vehicle Safety Equipment) 177",20-06-21,Kolkata
+66,"VV drove across a zebra crossing while pedestrians were walking, causing panic.","Fined 3,000","Motor Vehicles Act, 1988, Section 184 (Pedestrian Right of Way) 184",25-06-21,Hyderabad
+67,"WW was caught driving without a valid Pollution Under Control (PUC) certificate, stating the car was recently serviced.","Fined 2,500","Motor Vehicles Act, 1988, Section 190 (Pollution Control) 190",30-06-21,Pune
+68,"XX was caught running an unauthorized taxi service without a commercial driving license or permit.","Fined 10,000","Motor Vehicles Act, 1988, Section 66 (Permit Violation) 66",05-07-21,Surat
+69,"YY was stopped for driving a vehicle with faulty brake lights, endangering other road users.","Fined 1,500","Motor Vehicles Act, 1988, Section 177 (Vehicle Maintenance) 177",10-07-21,Jaipur
+70,"ZZ was found driving a vehicle that was leaking oil, creating slippery conditions on the road.","Fined 3,000 and vehicle impounded","Motor Vehicles Act, 1988, Section 190 (Vehicle Condition) 190",15-07-21,Kanpur
+71,"AAA was driving in reverse on a public road for an extended distance, creating confusion for other drivers.","Fined 2,000","Motor Vehicles Act, 1988, Section 177 (Improper Driving) 177",20-07-21,Lucknow
+72,"BBB was using a high-powered aftermarket exhaust system, generating excessive noise and disturbing nearby residents.","Fined 4,000 and ordered to revert modifications","Motor Vehicles Act, 1988, Section 190 (Noise Pollution) 190",25-07-21,Agra
+73,"CCC was fined for driving in a no-entry zone meant for pedestrians, arguing that there was no visible sign.","Fined 1,500","Motor Vehicles Act, 1988, Section 177 (Traffic Violations) 177",30-07-21,Nashik
+74,"DDD was fined for driving with an improperly fastened seatbelt, claiming it was uncomfortable.","Fined 1,000","Motor Vehicles (Amendment) Act, 2019, Section 194B (Seatbelt Violation) 194B",04-08-21,Chandigarh
+75,"EEE was caught riding a motorcycle without a helmet and argued it was too hot to wear one.","Fined 1,500","Motor Vehicles (Amendment) Act, 2019, Section 129 (Helmet) 129",10-08-21,Delhi
+76,"FFF was stopped for driving without the mandatory FASTag, which led to toll evasion.",Fined 500 and FASTag registration required,"National Highways Fee (Determination of Rates and Collection) Rules, 2008",15-08-21,Mumbai
+77,"GGG was caught exceeding the speed limit in a construction zone, claiming there were no clear signs.","Fined 5,000","Motor Vehicles (Amendment) Act, 2019, Section 183 (Speed Limits) 183",20-08-21,Bengaluru
+78,"HHH was driving a public transport vehicle without carrying the required first aid box.","Fined 2,000","Motor Vehicles Act, 1988, Section 138 (First Aid in Public Vehicles) 138",25-08-21,Chennai
+79,"III was found overloading his goods vehicle and argued it was a single trip.,Fined 20","000""","Motor Vehicles (Amendment) Act, 2019, Section 194 (Overloading Penalties) 194",30-08-21,Kolkata
+80,"JJJ was found guilty of drunk driving during a routine check, with a BAC over the legal limit.","Fined 10,000 and license suspended for 1 year.","Motor Vehicles (Amendment) Act, 2019, Section 185 (Drunken Driving) 185",05-09-21,Hyderabad
+81,"KKK failed to stop at a school bus stop, nearly hitting children.","Fined 5,000","Motor Vehicles (Amendment) Act, 2019, Section 177 (School Bus Safety Rules) 177",10-09-21,Pune
+82,"LLL refused to provide his driving license when asked by an officer, claiming he forgot it at home.",Fined 500,"Motor Vehicles (Amendment) Act, 2019, Section 180 (Failure to Produce Documents) 180",15-09-21,Delhi
+83,"MMM was using high-beam lights in a low-light area, causing discomfort to other drivers.","Fined 1,000","Motor Vehicles Act, 1988, Section 177 (Improper Use of Lights) 177",20-09-21,Mumbai
+84,"NNN was caught driving a vehicle with heavily tinted windows, exceeding the permissible limit.","Fined 2,000","Central Motor Vehicles Rules, 1989, Rule 100 (Window Tinting) 100",25-09-21,Bengaluru
+85,"OOO drove a vehicle without an insurance policy, arguing he was unaware of its expiration.","Fined 2,000","Motor Vehicles Act, 1988, Section 196 (No Insurance) 196",30-09-21,Chennai
+86,"PPP was found blocking a fire hydrant with his vehicle in a public parking zone, preventing access.","Fined 3,000","Fire Services Act, 1959, Section 33 (Blocking Fire Hydrants) 33",05-10-21,Kolkata
+87,"QQQ was driving a car equipped with unauthorized LED headlights, which blinded oncoming traffic.","Fined 4,000 and headlights confiscated.","Motor Vehicles Act, 1988, Section 52 (Unauthorized Vehicle Modifications) 52",10-10-21,Hyderabad
+88,"RRR failed to secure a child in a child safety seat, leading to an unsafe condition.","Fined 1,000","Motor Vehicles (Amendment) Act, 2019, Section 194B (Child Restraint System) 194B",15-10-21,Pune
+89,"SSS was caught using a phone while driving, stating he was on an important call.","Fined 2,000","Motor Vehicles (Amendment) Act, 2019, Section 184 (Mobile Phone Use) 184",20-10-21,Delhi
+90,"TTT was fined for driving with worn-out tires, which compromised road safety.","Fined 2,500 and vehicle impounded until fixed.","Motor Vehicles Act, 1988, Section 190 (Vehicle Condition) - Article 190",25-10-21,Jaipur
+91,"UUU failed to stop at a pedestrian crossing despite multiple pedestrians waiting to cross.","Fined 3,000","Motor Vehicles (Amendment) Act, 2019, Section 177 (Pedestrian Crossing) - Article 177",30-10-21,Kanpur
+92,"VVV was caught using fog lights during clear weather, causing glare to other drivers.","Fined 1,000","Motor Vehicles Act, 1988, Section 177 (Improper Use of Lights) - Article 177",04-11-21,Lucknow
+93,"WWW exceeded the speed limit in a residential area, claiming he was late for an appointment.","Fined 2,000","Motor Vehicles (Amendment) Act, 2019, Section 183 (Speed Limits) - Article 183",10-11-21,Agra
+94,"XXX was stopped for not dimming his headlights when approaching other vehicles at night.","Fined 1,500","Motor Vehicles Act, 1988, Section 177 (Headlight Dimming) - Article 177",15-11-21,Nashik
+95,"YYY drove an uninsured vehicle and claimed he had applied for insurance renewal but hadnt received confirmation.","Fined 2,000","Motor Vehicles Act, 1988, Section 196 (Driving Without Insurance) - Article 196",20-11-21,Chandigarh
+96,"ZZZ failed to yield to an ambulance in a congested area, slowing its emergency response.","Fined 5,000","Motor Vehicles (Amendment) Act, 2019, Section 194 (Failure to Yield) - Article 194",25-11-21,Delhi
+97,"AAAA was found transporting hazardous goods in a non-designated vehicle, claiming it was a one-time delivery.","Fined 10,000","Motor Vehicles (Amendment) Act, 2019, Section 113B (Transporting Hazardous Goods) - Article 113B",30-11-21,Mumbai
+98,"BBBB was caught parking in a disabled parking zone without proper authorization.","Fined 2,500","Motor Vehicles (Amendment) Act, 2019, Section 177 (Unauthorized Parking) - Article 177",05-12-21,Bengaluru
+99,"CCCC was driving a vehicle without functioning indicators, creating confusion for other road users.","Fined 1,500","Motor Vehicles Act, 1988, Section 190 (Vehicle Maintenance) - Article 190",10-12-21,Delhi
+100,"DDDD was found driving with excessively loud music, disturbing nearby residents in a residential area.","Fined 2,000","Motor Vehicles Act, 1988, Section 194 (Noise Pollution) - Article 194",15-12-21,Mumbai
+101,EEEE failed to provide proof of pollution control (PUC) certificate during a routine traffic stop.,"Fined 2,500","Motor Vehicles (Amendment) Act, 2019, Section 190 (Pollution Control) - Article 190",20-12-21,Bengaluru
+102,"FFFF was caught driving with an expired learners license, stating he forgot to renew it.","Fined 1,000","Motor Vehicles Act, 1988, Section 3 (Licensing) - Article 3",25-12-21,Chennai
+103,GGGG was stopped for failing to give proper hand signals while riding a bicycle on a busy road.,Fined 500,"Motor Vehicles Act, 1988, Section 177 (Hand Signals) - Article 177",30-12-21,Kolkata
+104,"HHHH was caught overtaking dangerously on a narrow bridge, almost causing a head-on collision.","Fined 6,000","Motor Vehicles (Amendment) Act, 2019, Section 184 (Dangerous Overtaking) - Article 184",05-01-22,Hyderabad
+105,"Driver ran a red light, causing a collision.","Fined 2,000, license suspended for 1 month.","Motor Vehicles Act, 1988, Section 19 (Red Light Violation) - Article 19",10-01-23,Mumbai
+106,DUI incident leading to property damage.,1-year imprisonment,"IPC, Section 185 (DUI) - Article 185",15-01-23,Delhi
+107,Speeding in a school zone.,"Fined 3,000","Motor Vehicles Act, 1988, Section 183 (Speeding in School Zone) - Article 183",02-02-23,Bangalore
+108,Reckless driving causing injury.,6 months community service,"Motor Vehicles Act, 1988, Section 134 (Reckless Driving) - Article 134",28-02-23,Chennai
+109,Not wearing a seatbelt.,Fined 500,"Motor Vehicles Act, 1988, Section 138 (Seatbelt Violation) - Article 138",05-03-23,Kolkata
+110,Hit-and-run incident involving a cyclist.,2 years imprisonment,"IPC, Section 304A (causing death by negligence) - Article 304A",15-03-23,Pune
+111,Driving without a valid license.,"Fined 1,000","Motor Vehicles Act, 1988, Section 3 (Licensing) - Article 3",22-03-23,Hyderabad
+112,Overtaking from the wrong side.,"Fined 1,500","Motor Vehicles Act, 1988, Section 120 (Overtaking) - Article 120",10-04-23,Ahmedabad
+113,Using a mobile phone while driving.,"Fined 1,000","Motor Vehicles Act, 1988, Section 184 (Mobile Phone Use) - Article 184",20-04-23,Surat
+114,Vehicle registration expired.,"Fined 2,000","Motor Vehicles Act, 1988, Section 39 (Vehicle Registration) - Article 39",02-05-23,Jaipur
+115,Failing to provide insurance details.,"Fined 5,000","Motor Vehicles Act, 1988, Section 146 (Insurance) - Article 146",15-05-23,Lucknow
+116,Parking in a no-parking zone.,Fined 300,"Motor Vehicles Act, 1988, Section 117 (Parking Violations) - Article 117",28-05-23,Bhopal
+117,Driving an unregistered vehicle.,"Fined 5,000","Motor Vehicles Act, 1988, Section 39 (Vehicle Registration) - Article 39",10-06-23,Chandigarh
+118,Failing to wear a helmet while riding.,"Fined 1,000","Motor Vehicles Act, 1988, Section 129 (Helmet Requirement) - Article 129",15-06-23,Cochin
+119,Causing obstruction by parking in front of a driveway.,"Fined 2,000","IPC, Section 339 (Wrongful Restraint) - Article 339",05-07-23,Mysore
+120,Running a stop sign at an intersection.,"Fined 1,500","Motor Vehicles Act, 1988, Section 177 (Traffic Signals) - Article 177",15-07-23,Mumbai
+121,Drunk driving leading to multiple injuries.,2 years imprisonment,"IPC, Section 185 (DUI) - Article 185",25-07-23,Delhi
+122,Illegal parking on a main road.,"Fined 1,000","Motor Vehicles Act, 1988, Section 117 (Parking Violations) - Article 117",02-08-23,Bangalore
+123,Not using indicators while changing lanes.,Fined 500,"Motor Vehicles Act, 1988, Section 121 (Turning Violations) - Article 121",10-08-23,Chennai
+124,Excessive honking in a residential area.,Fined 200,"Motor Vehicles Act, 1988, Section 189 (Noise Pollution) - Article 189",20-08-23,Kolkata
+125,Driving a vehicle with no number plate.,"Fined 3,000","Motor Vehicles Act, 1988, Section 39 (Vehicle Registration) - Article 39",01-09-23,Pune
+126,Riding a motorcycle without a helmet.,"Fined 1,000","Motor Vehicles Act, 1988, Section 129 (Helmet Requirement) - Article 129",15-09-23,Hyderabad
+127,Driving in the wrong lane.,"Fined 1,500","Motor Vehicles Act, 1988, Section 128 (Lane Discipline) - Article 128",30-09-23,Mumbai
+128,Failing to stop for a school bus.,"Fined 2,500","Motor Vehicles Act, 1988, Section 179 - Article 179",30-09-23,Surat
+129,Tailgating another vehicle.,"Fined 1,000","Motor Vehicles Act, 1988, Section 184 - Article 184",05-10-23,Jaipur
+130,Not providing a safe distance while overtaking.,"Fined 1,500","Motor Vehicles Act, 1988, Section 129 - Article 129",10-10-23,Lucknow
+131,Driving with an expired fitness certificate.,"Fined 2,000","Motor Vehicles Act, 1988, Section 56 - Article 56",15-10-23,Bhopal
+132,Using tinted glass beyond legal limits.,"Fined 3,000","Motor Vehicles Act, 1988, Section 100 - Article 100",20-10-23,Chandigarh
+133,Causing a traffic jam due to negligence.,6-month jail sentence,IPC Section 279 (rash driving) - Article 279,25-10-23,Cochin
+134,Overloading a commercial vehicle.,"Fined 5,000","Motor Vehicles Act, 1988, Section 192 - Article 192",01-11-23,Mysore
+135,Failing to signal before turning.,"Fined 1,000","Motor Vehicles Act, 1988, Section 121 - Article 121",05-11-23,Ahmedabad
+136,Driving without insurance.,"Fined 2,000","Motor Vehicles Act, 1988, Section 146 - Article 146",10-11-23,Jaipur
+137,Driving while using a mobile phone.,"Fined 1,000","Motor Vehicles Act, 1988, Section 184 - Article 184",15-11-23,Surat
+138,Failing to yield to emergency vehicles.,"Fined 2,000","Motor Vehicles Act, 1988, Section 177 - Article 177",20-11-23,Pune
+139,Leaving the scene of an accident.,1 year imprisonment,IPC Section 304A (causing death by negligence) - Article 304A,25-11-23,Delhi
+140,Running a red light during heavy traffic.,"Fined 2,000","Motor Vehicles Act, 1988, Section 19 - Article 19",01-12-23,Mumbai
+141,Vehicle modified without permission.,"Fined 3,000","Motor Vehicles Act, 1988, Section 52 - Article 52",05-12-23,Bangalore
+142,Involvement in a street race.,3 months jail sentence,IPC Section 279 (rash driving) - Article 279,10-12-23,Chennai
+143,Not adhering to lane discipline.,"Fined 1,000","Motor Vehicles Act, 1988, Section 121 - Article 121",15-12-23,Kolkata
+144,Failing to carry a valid driving license.,"Fined 1,000","Motor Vehicles Act, 1988, Section 3 - Article 3",20-12-23,Hyderabad
+145,A person was caught speeding in a residential area and claimed they were late for a meeting.,"Fined 1,500","Motor Vehicles Act, 1988, Section 183 (Speeding) - Article 183",10-05-24,Bengaluru
+146,"A driver was accused of operating a vehicle with a defective silencer, arguing it was just a minor issue.","Fined 1,000","Motor Vehicles Act, 1988, Section 190 (Defective Vehicle) - Article 190",15-06-24,Chennai
+147,"A driver refused to stop at a red light, claiming they didnt notice it in time.","Fined 2,000","Motor Vehicles Act, 1988, Section 119 (Traffic Signals) - Article 119",25-07-24,Kochi
+148,"A driver was caught operating a vehicle without valid insurance, claiming it had recently expired.","Fined 3,500","Motor Vehicles Act, 1988, Section 146 (Insurance) - Article 146",02-08-24,Patna
+149,"A person was charged with obstructing traffic by stopping in the middle of the road, claiming car trouble.","Fined 1,000","Motor Vehicles Act, 1988, Section 201 (Traffic Obstruction) - Article 201",12-09-24,Bhopal
+150,"A driver was found using high beams in a low-visibility area, claiming it was safer.","Fined 1,000","Motor Vehicles Act, 1988, Section 177 (Improper Lighting) - Article 177",22-09-24,Jaipur
+151,"A person was caught driving a vehicle with tinted windows beyond the legal limit, claiming they werent aware.","Fined 2,500","Motor Vehicles Act, 1988, Section 100 (Window Tints) - Article 100",05-10-24,Goa
+152,"A driver refused to pay toll charges, arguing they were a local resident and shouldnt be charged.","Fined 1,000","Motor Vehicles Act, 1988, Section 194B (Toll Evasion) - Article 194B",17-10-24,Indore
+153,"A driver was found using a mobile phone while driving, claiming it was an emergency call.","Fined 2,000","Motor Vehicles Act, 1988, Section 184 (Distracted Driving) - Article 184",21-10-24,Varanasi
+154,"A truck driver was caught carrying a load beyond the allowed weight limit, stating they were unaware.","Fined 5,000","Motor Vehicles Act, 1988, Section 194 (Overloading) - Article 194",27-10-24,Surat
+155,"A person was found without wearing a helmet on a two-wheeler, claiming it was too hot to wear one.","Fined 1,000","Motor Vehicles Act, 1988, Section 129 (Helmet Requirement) - Article 129",03-11-24,Kolkata
+156,"A driver was caught driving in a bus lane, stating they didnt see any signs restricting the lane for buses.","Fined 2,000","Motor Vehicles Act, 1988, Section 177 (Improper Lane Usage) - Article 177",07-11-24,Hyderabad
+157,"A person refused to stop at a police checkpoint, claiming they were rushing to the hospital.","Fined 2,500","Motor Vehicles Act, 1988, Section 179 (Ignoring Police Orders) - Article 179",10-11-24,Pune
+158,"A driver was caught honking in a silent zone near a hospital, stating they werent aware of the restriction.",Fined 500,"Motor Vehicles Act, 1988, Section 194F (Noise Pollution) - Article 194F",15-11-24,Ahmedabad
+159,"A person was involved in a minor accident and left the scene without reporting it, claiming there was no damage.","Fined 1,000","Motor Vehicles Act, 1988, Section 132 (Failure to Report Accident) - Article 132",20-11-24,Delhi
+160,"A person was found driving underaged, claiming it was an emergency.","Fined 10,000 and vehicle impounded","Motor Vehicles Act, 1988, Section 4 (Underage Driving) - Article 4",25-11-24,Mumbai
+161,"Driver moving object missing proper signature lights, claiming no knowledge of problem.","Fined 1,500","Motor Vehicles Act, 1988, Section 190 - Article 190",20-03-21,Bhopal
+162,"Driver moved over pedestrian zone, claiming rushing for work.","Fined 2,000","Motor Vehicles Act, 1988, Section 177 (Pedestrian Violations) - Article 177",25-03-21,Varanasi
+163,"Someone driving ignored one-way rule, saying no signs visible.","Fined 3,000","Motor Vehicles Act, 1988, Section 119 (No-Entry) - Article 119",30-03-21,Surat
+164,"Driver misused fog lights in clear area, claiming improved visibility.","Fined 1,000","Motor Vehicles Act, 1988, Section 177 (Lighting Misuse) - Article 177",01-04-21,Patna
+165,"Someone moved underage, giving excuse of emergency.","Fined 10,000, object seized","Motor Vehicles Act, 1988, Section 4 (Underage Driving) - Article 4",05-04-21,Mumbai
+166,"Driver found lacking key documents during quick inspection, claiming forgotfulness.","Fined 2,000","Motor Vehicles Act, 1988, Section 130 (Missing Documents) - Article 130",10-04-21,Raipur
+167,"Driver ignored road signs during fog, claiming poor visibility.","Fined 2,500","Motor Vehicles Act, 1988, Section 177 (Signal Violation) - Article 177",01-02-21,Mysore
+168,"Driver found moving on one deflected wheel, claiming he didnt know of issue.","Fined 1,000","Motor Vehicles Act, 1988, Section 190 (Defective Wheel) - Article 190",05-02-21,Delhi
+169,"Someone moving overspeeding in school zone, claiming they were in rush for work.","Fined 2,000","Motor Vehicles Act, 1988, Section 183 (Speeding) - Article 183",10-02-21,Kolkata
+170,"Person found moving missing number plates, saying it fell off during cleaning.","Fined 1,500","Motor Vehicles Act, 1988, Section 41 (Number Plate) - Article 41",15-02-21,Jaipur
+171,"Driver skipped crossing stop sign, arguing sign was hidden by overgrown shrubs.","Fined 2,500","Motor Vehicles Act, 1988, Section 119 - Article 119",20-02-21,Pune
+172,"Driver moving on expired license, claiming it was minor oversight.","Fined 3,000","Motor Vehicles Act, 1988, Section 3 - Article 3",25-02-21,Lucknow
+173,"Someone driving moved recklessly in busy zone, claiming rushing for work.","Fined 2,000","Motor Vehicles Act, 1988, Section 184 - Article 184",01-03-21,Hyderabad
+174,"Person refused pulling over for check, claiming signals missed.","Fined 3,500","Motor Vehicles Act, 1988, Section 179 - Article 179",05-03-21,Bengaluru
+175,"Moving object found leaking smog due to poor upkeep, confirmed by driver.","Fined 2,000","Motor Vehicles Act, 1988, Section 190 - Article 190",10-03-21,Chennai
+176,"Driver ignored zebra crossing while pedestrians were crossing, claiming to be in a hurry.","Fined 2,000","Motor Vehicles Act, 1988, Section 177 - Article 177",10-06-21,Udaipur
+177,"Person found operating a vehicle with expired emissions certification, claiming it slipped their mind.","Fined 1,500","Motor Vehicles Act, 1988, Section 190 - Article 190",12-06-21,Nashik
+178,"Driver was found using high beams in city limits, claiming to need better visibility.","Fined 2,500","Motor Vehicles Act, 1988, Section 177 - Article 177",15-06-21,Kolkata
+179,"Driver failed to give way to emergency services, explaining they did not hear the siren.","Fined 3,000","Motor Vehicles Act, 1988, Section 194 - Article 194",18-06-21,Jaipur
+180,"Person was found speeding in a school zone, stating they were unaware of the limit.","Fined 2,500","Motor Vehicles Act, 1988, Section 183 - Article 183",20-06-21,Agra
+181,"Driver involved in a minor collision, claiming the other party was at fault.","Fined 1,000","Motor Vehicles Act, 1988, Section 177 - Article 177",22-06-21,Delhi
+182,"Driver was caught using earphones while driving, saying it was for a work call.","Fined 1,500","Motor Vehicles Act, 1988, Section 184 - Article 184",25-06-21,Chennai
+183,"Person found driving without seatbelt, claiming they forgot to put it on.","Fined 1,000","Motor Vehicles Act, 1988, Section 138 - Article 138",28-06-21,Hyderabad
+184,"Motorist failed to switch lanes correctly, leading to a near-miss, explaining confusion over the signs.","Fined 2,000","Motor Vehicles Act, 1988, Section 184 - Article 184",01-07-21,Pune
+185,"Driver ran over a pothole, causing damage to public property, saying it was unavoidable.","Fined 3,000","Motor Vehicles Act, 1988, Section 184 - Article 184",05-07-21,Surat
+186,"Driver was caught with worn-out tires, explaining they were planning to replace them soon.","Fined 2,000","Motor Vehicles Act, 1988, Section 190 - Article 190",08-07-21,Bhopal
+187,"Person found driving on the wrong side of the road, stating they followed incorrect GPS directions.","Fined 3,000","Motor Vehicles Act, 1988, Section 119 - Article 119",12-07-21,Raipur
+188,"Driver obstructed traffic by double parking, claiming it was just for a short errand.","Fined 2,500","Motor Vehicles Act, 1988, Section 177 - Article 177",15-07-21,Mysore
+189,"Driver was caught using an invalid toll pass, claiming they didnt realize it had expired.","Fined 1,500","Motor Vehicles Act, 1988, Section 194 - Article 194",18-07-21,Bengaluru
+190,"Person found with over 50% tinted windows, claiming it was for protection from the sun.","Fined 1,500","Motor Vehicles Act, 1988, Section 177 - Article 177",20-07-21,Mumbai
+191,"Driver was caught driving in a bus lane, claiming it was quicker.","Fined 2,000","Motor Vehicles Act, 1988, Section 185 - Article 185",25-07-21,Bangalore
+192,"Motorist was found honking excessively in a silent zone, claiming they were unaware of the restriction.","Fined 1,500","Motor Vehicles Act, 1988, Section 177 - Article 177",28-07-21,Hyderabad
+193,"Driver left the scene after a minor collision, explaining they didnt think it was serious.","Fined 5,000",IPC Section 279 - Article 279,30-07-21,Pune
+194,"Person found using a mobile app to watch videos while driving, claiming it was for navigation.","Fined 3,000","Motor Vehicles Act, 1988, Section 184 - Article 184",02-08-21,Mumbai
+195,"Driver failed to slow down at a pedestrian crossing, saying they didnt notice the markings.","Fined 2,500","Motor Vehicles Act, 1988, Section 119 - Article 119",04-08-21,Delhi
+196,"A driver was caught with an expired learner's permit, claiming they were still learning.","Fined 1,500","Motor Vehicles Act, 1988, Section 3 - Article 3",07-08-21,Chandigarh
+197,"Motorist was caught driving with obstructed vision due to posters on the windshield, saying it was temporary.","Fined 2,500","Motor Vehicles Act, 1988, Section 177 - Article 177",10-08-21,Surat
+198,"A driver refused to pull over for a routine check, claiming they were in a hurry for an appointment.","Fined 4,000","Motor Vehicles Act, 1988, Section 179 - Article 179",13-08-21,Chennai
+199,"Driver was found operating a vehicle with no rearview mirror, saying it had been recently broken.","Fined 1,000","Motor Vehicles Act, 1988, Section 190 - Article 190",16-08-21,Jaipur
+200,"Driver was found with illegal modifications to the vehicle's exhaust system, claiming it improved performance.","Fined 3,000","Motor Vehicles Act, 1988, Section 52 - Article 52",20-08-21,Nagpur
+201,"Person caught smoking while driving, explaining they thought it was not prohibited.","Fined 1,500","Motor Vehicles Act, 1988, Section 177 - Article 177",23-08-21,Lucknow
+202,"Motorist was found blocking a fire hydrant, saying they only parked there briefly.","Fined 2,000","Motor Vehicles Act, 1988, Section 177 - Article 177",27-08-21,Kolkata
+203,"Driver failed to stop at a railway crossing, claiming they thought the train was far away.","Fined 5,000","Motor Vehicles Act, 1988, Section 131 - Article 131",30-08-21,Patna
+204,"Person found driving without turning on headlights at night, stating they forgot.","Fined 1,000","Motor Vehicles Act, 1988, Section 190 - Article 190",02-09-21,Kochi
+205,"Motorist was found blocking an ambulance's path, claiming they didnt realize the vehicle behind was an ambulance.","Fined 3,500","Motor Vehicles Act, 1988, Section 194 - Article 194",06-09-21,Bhopal
+206,"Driver was caught overtaking from the left side on a busy street, claiming the right lane was blocked.","Fined 2,500","Motor Vehicles Act, 1988, Section 184 - Article 184",10-09-21,Delhi
+207,"Motorist failed to stop for a school bus, claiming they were unaware it was a mandatory rule.","Fined 3,000","Motor Vehicles Act, 1988, Section 119 - Article 119",12-09-21,Chennai
+208,"A driver was found without proper functioning indicators, claiming they hadnt gotten them fixed yet.","Fined 1,500","Motor Vehicles Act, 1988, Section 190 - Article 190",14-09-21,Jaipur
+209,"Motorist was caught driving in a restricted area for heavy vehicles, claiming they were following GPS directions.","Fined 4,000","Motor Vehicles Act, 1988, Section 119 - Article 119",17-09-21,Bangalore
+210,"Driver found revving the engine loudly in a residential area late at night, claiming it was unintentional.","Fined 1,500","Motor Vehicles Act, 1988, Section 177 - Article 177",19-09-21,Hyderabad
+211,"Person was caught running a stop sign, explaining they didnt see it clearly in the dark.","Fined 2,500","Motor Vehicles Act, 1988, Section 119 - Article 119",22-09-21,Lucknow
+212,"Motorist was found driving with a cracked windshield, stating they were planning to get it replaced.","Fined 2,000","Motor Vehicles Act, 1988, Section 190 - Article 190",25-09-21,Surat
+213,"Driver failed to signal before changing lanes, explaining they were in a rush to reach a destination.","Fined 1,500","Motor Vehicles Act, 1988, Section 184 - Article 184",27-09-21,Pune
+214,A person was caught transporting hazardous materials without proper authorization.,"Fined 10,000","Motor Vehicles Act, 1988, Section 194 - Article 194",30-09-21,Kochi
+215,"Driver found using an illegal horn that exceeded the decibel limit, claiming they installed it for safety.","Fined 3,000","Motor Vehicles Act, 1988, Section 177 - Article 177",02-10-21,Mumbai
+216,"A motorist was caught throwing litter from the window while driving, saying they couldnt find a bin.","Fined 1,500","Motor Vehicles Act, 1988, Section 177 (Littering) - Article 1",05-10-21,Kolkata
+217,"Driver failed to renew the registration certificate for a commercial transport, claiming they forgot the due date.","Fined 4,000","Motor Vehicles Act, 1988, Section 39 (Registration Expiry) - Article 2",07-10-21,Bhopal
+218,"A driver was caught misusing a disabled parking permit, saying they borrowed it from a friend.","Fined 5,000","Motor Vehicles Act, 1988, Section 177 (Misuse of Permit) - Article 3",10-10-21,Chandigarh
+219,"Motorist was found with an unsecured load on a pickup, explaining they didnt know it was a violation.","Fined 3,500","Motor Vehicles Act, 1988, Section 194 (Unsecured Load) - Article 4",12-10-21,Nagpur
+220,"Driver found tailgating an emergency service vehicle to move faster in traffic, saying they were late for work.","Fined 3,000","Motor Vehicles Act, 1988, Section 194 (Tailgating Emergency Vehicle) - Article 5",15-10-21,Delhi
+221,"Driver was caught driving without a valid fitness certificate, claiming they were unaware of the requirement.","Fined 2,500","Motor Vehicles Act, 1988, Section 56 (Fitness Certificate) - Article 6",20-10-21,Pune
+222,"Motorist was found violating lane discipline on a highway, stating they were avoiding potholes.","Fined 3,000","Motor Vehicles Act, 1988, Section 177 (Lane Discipline) - Article 7",22-10-21,Chennai
+223,"Driver was caught driving with a non-compliant exhaust system, claiming it was modified for performance.","Fined 5,000","Motor Vehicles Act, 1988, Section 52 (Exhaust Violations) - Article 8",25-10-21,Jaipur
+224,"A person was found parking in a no-parking zone, saying they were just running into a nearby shop.","Fined 2,000","Motor Vehicles Act, 1988, Section 177 (Parking Violations) - Article 9",27-10-21,Bangalore
+225,"Driver failed to use turn signals while changing directions, claiming they thought it was unnecessary.","Fined 1,500","Motor Vehicles Act, 1988, Section 184 (Signal Violation) - Article 10",30-10-21,Lucknow
+226,"Motorist was caught using a vehicle without proper registration plates, stating they were misplaced.","Fined 3,500","Motor Vehicles Act, 1988, Section 39 (Improper Registration) - Article 11",02-11-21,Hyderabad
+227,"Driver was found operating a vehicle without a valid commercial permit, claiming they were unaware of the regulations.","Fined 4,000","Motor Vehicles Act, 1988, Section 66 (Commercial Permit) - Article 12",05-11-21,Chandigarh
+228,"A motorist was caught driving with an obstructed view due to window stickers, saying they were decorative.","Fined 2,000","Motor Vehicles Act, 1988, Section 190 (Obstructed View) - Article 13",08-11-21,Surat
+229,"Driver was found using a vehicle for ride-sharing without proper licensing, claiming they were just helping a friend.","Fined 5,000","Motor Vehicles Act, 1988, Section 66 (Ride-sharing Regulations) - Article 14",10-11-21,Mumbai
+230,"A person was caught parking in a spot reserved for electric vehicles without permission, stating they didn't see the sign.","Fined 2,500","Motor Vehicles Act, 1988, Section 177 (Parking Violations) - Article 15",12-11-21,Bhopal
+231,"Driver failed to stop at a traffic signal, claiming they were following another vehicle too closely.","Fined 3,000","Motor Vehicles Act, 1988, Section 119 (Traffic Signal Violation) - Article 16",15-11-21,Nagpur
+232,"Motorist was found using expired insurance, stating they were waiting for the renewal documents.","Fined 4,000","Motor Vehicles Act, 1988, Section 196 (Insurance Violations) - Article 17",18-11-21,Delhi
+233,"Driver caught driving with an open container of alcohol, claiming they were transporting it for a friends party.","Fined 3,500","Motor Vehicles Act, 1988, Section 185 (Open Containers) - Article 18",20-11-21,Chandigarh
+234,"A person was caught making an illegal U-turn, stating they were lost and trying to find their way.","Fined 2,500","Motor Vehicles Act, 1988, Section 119 (Illegal U-turn) - Article 19",22-11-21,Jaipur
+235,"Motorist found speeding in a construction zone, claiming they didn't see the construction signs.","Fined 4,000","Motor Vehicles Act, 1988, Section 183 (Speeding in Restricted Zones) - Article 20",25-11-21,Bangalore
+236,"Driver was caught tailgating another vehicle on the highway, claiming they were trying to change lanes.","Fined 3,000","Motor Vehicles Act, 1988, Section 184 (Tailgating) - Article 21",28-11-21,Mumbai
+237,"Motorist was found driving with a flat tire, saying they were unaware of the damage.","Fined 2,000","Motor Vehicles Act, 1988, Section 190 (Defective Vehicle) - Article 22",01-12-21,Pune
+238,"A person was caught parking in front of a fire hydrant, claiming they were only stopping briefly.","Fined 5,000","Motor Vehicles Act, 1988, Section 177 (Fire Hydrant Violation) - Article 23",03-12-21,Hyderabad
+239,"Driver was found using a vehicle without a valid insurance policy, claiming they were unaware it expired.","Fined 4,000","Motor Vehicles Act, 1988, Section 196 (Insurance Requirement) - Article 24",06-12-21,Jaipur
+240,"Motorist was caught driving without headlights in foggy conditions, stating they thought it wasn't necessary.","Fined 3,000","Motor Vehicles Act, 1988, Section 190 (Headlight Requirement) - Article 25",08-12-21,Bangalore
+241,"Driver failed to yield to a cyclist at an intersection, claiming they did not see the cyclist.","Fined 2,500","Motor Vehicles Act, 1988, Section 119 (Cyclist Safety) - Article 26",10-12-21,Delhi
+242,"A person was found using an unregistered vehicle, claiming they were in the process of registration.","Fined 3,500","Motor Vehicles Act, 1988, Section 39 (Registration Requirement) - Article 27",13-12-21,Chandigarh
+243,"Driver was caught driving while using a mobile phone, stating they were only checking the map.","Fined 2,500","Motor Vehicles Act, 1988, Section 184 (Mobile Phone Use) - Article 28",15-12-21,Surat
+244,"Motorist was found driving in a bike lane, saying they were unaware of the lane's purpose.","Fined 2,000","Motor Vehicles Act, 1988, Section 177 (Bike Lane Violation) - Article 29",18-12-21,Chennai
+245,"A driver was caught ignoring a no-entry sign, claiming they thought it was an exception for vehicles.","Fined 3,000","Motor Vehicles Act, 1988, Section 119 (No Entry Violation) - Article 30",20-12-21,Lucknow
+246,"Person was found driving with tinted windows exceeding the legal limit, stating they were for privacy.","Fined 4,000","Motor Vehicles Act, 1988, Section 177 (Tinted Window Violation) - Article 31",22-12-21,Nagpur
+247,"Driver was caught racing against another vehicle in a residential area, claiming it was just for fun.","Fined 5,000","Motor Vehicles Act, 1988, Section 183 (Racing Violation) - Article 32",25-12-21,Bhopal
+248,"Motorist was found not wearing a helmet while riding a two-wheeler, claiming it was uncomfortable.","Fined 1,000","Motor Vehicles Act, 1988, Section 129 (Helmet Requirement) - Article 33",28-12-21,Kolkata
+249,"Driver failed to stop for a pedestrian in a crosswalk, stating they did not see them.","Fined 2,500","Motor Vehicles Act, 1988, Section 119 (Pedestrian Right of Way) - Article 34",30-12-21,Mumbai
+250,"A person was caught driving without proper footwear, stating they were just going around the block.","Fined 1,500","Motor Vehicles Act, 1988, Section 190 (Proper Footwear) - Article 38",26-03-22,Nagpur
+251,"Driver was found transporting animals improperly, claiming they were just taking them to a vet.","Fined 3,500","Motor Vehicles Act, 1988, Section 194 (Animal Transport Regulations) - Article 39",28-03-22,Lucknow
+252,"Motorist was caught speeding while being chased by another driver, claiming it was self-defense.","Fined 5,000","Motor Vehicles Act, 1988, Section 183 (Speeding) - Article 40",30-03-22,Delhi
+253,"Driver was found without a working horn, stating they hadnt realized it was broken.","Fined 2,000","Motor Vehicles Act, 1988, Section 190 (Vehicle Condition) - Article 41",02-04-22,Bhopal
+254,"A person was caught using a vehicle for commercial purposes without a permit, stating they were helping a friend move.","Fined 5,000","Motor Vehicles Act, 1988, Section 66 (Commercial Use) - Article 42",05-04-22,Kolkata
+255,"Driver failed to secure their load properly, leading to items falling on the road, claiming it was an accident.","Fined 4,000","Motor Vehicles Act, 1988, Section 194 (Load Security) - Article 43",07-04-22,Mumbai
+256,"Motorist was caught driving a rented vehicle without proper authorization, stating it was a misunderstanding.","Fined 3,500","Motor Vehicles Act, 1988, Section 66 (Unauthorized Use) - Article 44",09-04-22,Jaipur
+257,"Driver was found using the bus lane while driving alone, claiming they thought it was a mixed-use lane.","Fined 2,500","Motor Vehicles Act, 1988, Section 177 (Lane Violation) - Article 45",12-04-22,Hyderabad
+258,"A person was caught idling their vehicle in a no-idling zone, saying they were waiting for a friend.","Fined 1,500","Motor Vehicles Act, 1988, Section 177 (Idling Violations) - Article 46",15-04-22,Bengaluru
+259,"Driver was caught failing to use turn signals while changing lanes, claiming they forgot.","Fined 2,000","Motor Vehicles Act, 1988, Section 121 (Turning Signals) - Article 47",17-04-22,Chennai
+260,"Motorist was found driving on a footpath, stating they were avoiding a traffic jam.","Fined 5,000","Motor Vehicles Act, 1988, Section 177 (Footpath Violation) - Article 48",19-04-22,Bangalore
+261,"A person was caught driving an electric vehicle without proper charging equipment, claiming it was lost.","Fined 3,000","Motor Vehicles Act, 1988, Section 177 (Electric Vehicle Regulations) - Article 49",22-04-22,Pune
+262,"Driver was found driving with a cracked windshield, stating they planned to replace it soon.","Fined 2,500","Motor Vehicles Act, 1988, Section 190 (Vehicle Condition) - Article 50",24-04-22,Hyderabad
+263,"Motorist was caught using a vehicle to solicit business without proper licensing, claiming it was a one-time thing.","Fined 4,000","Motor Vehicles Act, 1988, Section 66 (Unauthorized Commercial Use) - Article 51",26-04-22,Chandigarh
+264,"Driver failed to yield to emergency vehicles, stating they didnt hear the sirens.","Fined 3,500","Motor Vehicles Act, 1988, Section 194 (Emergency Vehicle Regulations) - Article 52",28-04-22,Jaipur
+265,"A person was caught riding a scooter without a valid permit, claiming they were just practicing.","Fined 2,000","Motor Vehicles Act, 1988, Section 3 (Driving Without Permit) - Article 53",01-05-22,Nagpur
+266,"Driver was found exceeding the passenger limit in a commercial vehicle, stating they didnt know the rules.","Fined 5,000","Motor Vehicles Act, 1988, Section 194 (Passenger Regulations) - Article 54",03-05-22,Lucknow
+267,"Motorist was caught attempting to evade tolls by taking an alternate route, stating it was unintentional.","Fined 2,500","Motor Vehicles Act, 1988, Section 177 (Toll Evasion) - Article 55",05-05-22,Delhi
+268,"Driver was found not maintaining proper distance from the vehicle in front, stating it was due to traffic.","Fined 3,000","Motor Vehicles Act, 1988, Section 184 (Safe Following Distance) - Article 56",08-05-22,Bhopal
+269,"A person was caught driving with a child in the front seat without proper restraints, claiming they were only a few blocks away.","Fined 4,000","Motor Vehicles Act, 1988, Section 180 (Child Safety) - Article 57",10-05-22,Kolkata
+270,"Driver was caught driving with an obstructed view, stating they were unaware it was a problem.","Fined 2,000","Motor Vehicles Act, 1988, Section 190 (Clear View Requirement) - Article 58",12-05-22,Mumbai
+271,"Motorist was found cruising through a no-parking zone during peak hours, claiming they were just waiting for a spot.","Fined 3,000","Motor Vehicles Act, 1988, Section 177 (No Parking Violation) - Article 59",15-05-22,Jaipur
+272,"Driver was caught using tinted windows exceeding the legal limit, stating they were for protection.","Fined 4,000","Motor Vehicles Act, 1988, Section 177 (Tinted Window Regulations) - Article 60",18-05-22,Hyderabad
+273,"A person was found driving under the influence of prescription medication, claiming it was legal.","Convicted; fined 10,000","Motor Vehicles Act, 1988, Section 185 (Driving Under Influence) - Article 61",20-05-22,Chandigarh
+274,Caught speeding at 120 km/h in a 60 km/h zone,"Fined 2,000","Motor Vehicles Act, 1988, Section 183 (Speeding)",01-01-24,Delhi
+275,Driving above the speed limit of 100 km/h in a zone,"Fined 2,500","Motor Vehicles Act, 1988, Section 183 (Speeding)",02-01-24,Mumbai
+276,Ran a red light and collided with another vehicle,"Fined 5,000 and license suspension for 3 months","Motor Vehicles Act, 1988, Section on Traffic Signals",03-01-24,Bengaluru
+277,Failed to stop at a red light and caused a minor crash,"Fined 4,000","Motor Vehicles Act, 1988, Section on Traffic Signals",04-01-24,Chennai
+278,Driving without a helmet on a motorcycle,"Fined 1,000","Motor Vehicles Act, 1988, Section 129 (Helmets)",05-01-24,Kolkata
+279,Riding a two-wheeler without a helmet,"Fined 1,500","Motor Vehicles Act, 1988, Section 129 (Helmets)",06-01-24,Hyderabad
+280,Caused an accident while using a mobile phone,"Fined 3,000","Motor Vehicles Act, 1988, Section 184 (Negligence)",07-01-24,Ahmedabad
+281,Using a mobile phone while driving and caused a crash,"Fined 3,500","Motor Vehicles Act, 1988, Section 184 (Negligence)",08-01-24,Pune
+282,"Parked in a no-parking zone, blocking traffic",Fined 500,"Motor Vehicles Act, 1988, Section 177 (Parking)",09-01-24,Delhi
+283,"Vehicle abandoned in a no-parking area, causing issues",Fined 700,"Motor Vehicles Act, 1988, Section 177 (Parking)",10-01-24,Mumbai
+284,"Driving under the influence of alcohol, BAC 0.09%","License suspension for 1 year and fined 10,000","Motor Vehicles Act, 1988, Section 185 (DUI)",11-01-24,Bengaluru
+285,"Driving while intoxicated, BAC 0.12%","License suspension for 6 months and fined 15,000","Motor Vehicles Act, 1988, Section 185 (DUI)",12-01-24,Chennai
+286,"Used a loud horn in a silent zone,Fined 1","500""","Motor Vehicles Act, 1988, Section 190 (Noise Pollution)",13-01-24,Kolkata
+287,Honked continuously near a hospital zone,"Fined 2,000","Motor Vehicles Act, 1988, Section 190 (Noise Pollution)",14-01-24,Hyderabad
+288,Failed to yield to an ambulance,"Fined 4,000","Motor Vehicles Act, 1988, Section 179 (Obstruction)",15-01-24,Ahmedabad
+289,Driving above the speed limit on a highway,"Fined 2,000","Motor Vehicles Act, 1988, Section 183 (Speeding)",11-01-24,Delhi
+290,Exceeded speed limit of 80 km/h in a residential area,"Fined 3,000","Motor Vehicles Act, 1988, Section 183 (Speeding)",12-01-24,Mumbai
+291,"Failed to stop at a red light, causing a minor accident","Fined 5,000","Motor Vehicles Act, 1988, Section on Traffic Signals",13-01-24,Bengaluru
+292,Drove without stopping at a pedestrian crossing,"Fined 4,500","Motor Vehicles Act, 1988, Section 115 (Right of Way)",14-01-24,Chennai
+293,Riding a bike without wearing a helmet,"Fined 1,000","Motor Vehicles Act, 1988, Section 129 (Helmets)",15-01-24,Kolkata
+294,Operated a motorcycle without protective gear,"Fined 1,200","Motor Vehicles Act, 1988, Section 129 (Helmets)",16-01-24,Hyderabad
+295,Caused an accident while using a mobile phone,"Fined 3,000","Motor Vehicles Act, 1988, Section 184 (Negligence)",17-01-24,Ahmedabad
+296,Crashed due to phone usage while driving,"Fined 3,500","Motor Vehicles Act, 1988, Section 184 (Negligence)",18-01-24,Pune
+297,Parked vehicle in a restricted zone,Fined 500,"Motor Vehicles Act, 1988, Section 177 (Parking)",19-01-24,Delhi
+298,Left car in no-parking area causing disruption,Fined 700,"Motor Vehicles Act, 1988, Section 177 (Parking)",20-01-24,Mumbai
+299,"Driving under influence, BAC recorded at 0.08%","License suspension and fine of 10,000","Motor Vehicles Act, 1988, Section 185 (DUI)",21-01-24,Bengaluru
+300,Driving while intoxicated with BAC over 0.10%,"License suspension and fine of 12,000","Motor Vehicles Act, 1988, Section 185 (DUI)",22-01-24,Chennai
+301,Used a loud horn near a school,"Fined 1,000","Motor Vehicles Act, 1988, Section 190 (Noise Pollution)",23-01-24,Kolkata
+302,Excessive honking near hospital,"Fined 1,500","Motor Vehicles Act, 1988, Section 190 (Noise Pollution)",24-01-24,Hyderabad
+303,Failed to give way to an ambulance,"Fined 4,000","Motor Vehicles Act, 1988, Section 179 (Obstruction)",25-01-24,Ahmedabad
+274,"Motorist was caught blocking a driveway, claiming they were only parked for a moment.","Fined  3,000","Motor Vehicles Act, 1988, Section 177 (Blocking Driveway)",24-02-22,Kolkata
+275,"Driver failed to secure a load properly, resulting in items falling onto the road, stating they thought it was fine.","Fined  4,000","Motor Vehicles Act, 1988, Section 194 (Improper Loading)",26-02-22,Delhi
+276,"A person was caught using their phone to take a video while driving, claiming it was for safety documentation.","Fined  3,000","Motor Vehicles Act, 1988, Section 184 (Distracted Driving)",28-02-22,Chandigarh
+277,"Driver was found driving without a valid fitness certificate for a commercial vehicle, stating it was in process.","Fined  4,000","Motor Vehicles Act, 1988, Section 56 (Fitness Certificate)",02-03-22,Bangalore
+278,Motorist was caught parking in a space reserved for electric vehicles without having an electric vehicle.,"Fined  3,000","Motor Vehicles Act, 1988, Section 177 (Unauthorized Parking)",05-03-22,Jaipur
+279,"Driver was found exceeding the speed limit in a residential area, claiming they were being chased.","Fined  5,000","Motor Vehicles Act, 1988, Section 183 (Speeding)",07-03-22,Pune
+280,"A person was caught ignoring a pedestrian crossing, stating they didnt see anyone crossing.","Fined  2,500","Motor Vehicles Act, 1988, Section 119 (Pedestrian Safety)",10-03-22,Lucknow
+281,"Driver was caught driving without a valid temporary registration, claiming it was in the mail.","Fined  3,000","Motor Vehicles Act, 1988, Section 39 (Registration Requirement)",12-03-22,Chennai
+282,"Motorist was found using their phone to send a text while driving, stating it was an emergency message.","Fined  3,500","Motor Vehicles Act, 1988, Section 184 (Distracted Driving)",15-03-22,Bangalore
+283,"A person was caught running a red light, claiming they were following the car in front.","Fined  5,000","Motor Vehicles Act, 1988, Section 119 (Traffic Signals)",17-03-22,Pune
+284,"Driver was caught riding a bicycle on the wrong side of the road, stating they were just following a friend.","Fined  1,000","Motor Vehicles Act, 1988, Section 177 (Bicycle Regulations)",19-03-22,Hyderabad
+285,"Motorist was found parking in a disabled spot without a permit, claiming they didn't see the sign.","Fined  4,000","Motor Vehicles Act, 1988, Section 177 (Unauthorized Parking)",21-03-22,Chandigarh
+286,"Driver failed to stop at a stop sign, saying they thought it was unnecessary at that intersection.","Fined  2,500","Motor Vehicles Act, 1988, Section 119 (Stop Sign Violation)",23-03-22,Jaipur
+287,"A person was caught driving without proper footwear, stating they were just going around the block.","Fined  1,500","Motor Vehicles Act, 1988, Section 190 (Proper Footwear)",26-03-22,Nagpur
+288,"Driver was found transporting animals improperly, claiming they were just taking them to a vet.","Fined  3,500","Motor Vehicles Act, 1988, Section 194 (Animal Transport Regulations)",28-03-22,Lucknow
+289,"Motorist was caught speeding while being chased by another driver, claiming it was self-defense.","Fined  5,000","Motor Vehicles Act, 1988, Section 183 (Speeding)",30-03-22,Delhi
+290,"Driver was found without a working horn, stating they hadnt realized it was broken.","Fined  2,000","Motor Vehicles Act, 1988, Section 190 (Vehicle Condition)",02-04-22,Bhopal
+291,"A person was caught using a vehicle for commercial purposes without a permit, stating they were helping a friend move.","Fined  5,000","Motor Vehicles Act, 1988, Section 66 (Commercial Use)",05-04-22,Kolkata
+292,"Driver failed to secure their load properly, leading to items falling on the road, claiming it was an accident.","Fined  4,000","Motor Vehicles Act, 1988, Section 194 (Load Security)",07-04-22,Mumbai
+293,"Motorist was caught driving a rented vehicle without proper authorization, stating it was a misunderstanding.","Fined  3,500","Motor Vehicles Act, 1988, Section 66 (Unauthorized Use)",09-04-22,Jaipur
+294,"Driver was found using the bus lane while driving alone, claiming they thought it was a mixed-use lane.","Fined  2,500","Motor Vehicles Act, 1988, Section 177 (Lane Violation)",12-04-22,Hyderabad
+295,"A person was caught idling their vehicle in a no-idling zone, saying they were waiting for a friend.","Fined  1,500","Motor Vehicles Act, 1988, Section 177 (Idling Violations)",15-04-22,Bengaluru
+296,"Driver was caught failing to use turn signals while changing lanes, claiming they forgot.","Fined  2,000","Motor Vehicles Act, 1988, Section 121 (Turning Signals)",17-04-22,Chennai
+297,"Motorist was found driving on a footpath, stating they were avoiding a traffic jam.","Fined  5,000","Motor Vehicles Act, 1988, Section 177 (Footpath Violation)",19-04-22,Bangalore
+298,"A person was caught driving an electric vehicle without proper charging equipment, claiming it was lost.","Fined  3,000","Motor Vehicles Act, 1988, Section 177 (Electric Vehicle Regulations)",22-04-22,Pune
+299,"Driver was found driving with a cracked windshield, stating they planned to replace it soon.","Fined  2,500","Motor Vehicles Act, 1988, Section 190 (Vehicle Condition)",24-04-22,Hyderabad
+300,"Motorist was caught using a vehicle to solicit business without proper licensing, claiming it was a one-time thing.","Fined  4,000","Motor Vehicles Act, 1988, Section 66 (Unauthorized Commercial Use)",26-04-22,Chandigarh
+301,"Driver failed to yield to emergency vehicles, stating they didnt hear the sirens.","Fined  3,500","Motor Vehicles Act, 1988, Section 194 (Emergency Vehicle Regulations)",28-04-22,Jaipur
+302,"A person was caught riding a scooter without a valid permit, claiming they were just practicing.","Fined  2,000","Motor Vehicles Act, 1988, Section 3 (Driving Without Permit)",01-05-22,Nagpur
+303,"Driver was found exceeding the passenger limit in a commercial vehicle, stating they didnt know the rules.","Fined  5,000","Motor Vehicles Act, 1988, Section 194 (Passenger Regulations)",03-05-22,Lucknow
+304,"Motorist was caught attempting to evade tolls by taking an alternate route, stating it was unintentional.","Fined  2,500","Motor Vehicles Act, 1988, Section 177 (Toll Evasion)",05-05-22,Delhi
+305,"Driver was found not maintaining proper distance from the vehicle in front, stating it was due to traffic.","Fined  3,000","Motor Vehicles Act, 1988, Section 184 (Safe Following Distance)",08-05-22,Bhopal
+306,"A person was caught driving with a child in the front seat without proper restraints, claiming they were only a few blocks away.","Fined  4,000","Motor Vehicles Act, 1988, Section 180 (Child Safety)",10-05-22,Kolkata
+307,"Driver was caught driving with an obstructed view, stating they were unaware it was a problem.","Fined  2,000","Motor Vehicles Act, 1988, Section 190 (Clear View Requirement)",12-05-22,Mumbai
+308,"Motorist was found cruising through a no-parking zone during peak hours, claiming they were just waiting for a spot.","Fined  3,000","Motor Vehicles Act, 1988, Section 177 (No Parking Violation)",15-05-22,Jaipur
+309,"Driver was caught using tinted windows exceeding the legal limit, stating they were for protection.","Fined  4,000","Motor Vehicles Act, 1988, Section 177 (Tinted Window Regulations)",18-05-22,Hyderabad
+310,"A person was found driving under the influence of prescription medication, claiming it was legal.","Convicted; fined  10,000","Motor Vehicles Act, 1988, Section 185 (Driving Under Influence)",20-05-22,Chandigarh
+311,"Attempted to run over a pedestrian during an argument, driving at high speed.",Convicted; 7 years imprisonment,"Indian Penal Code, Section 307 (Attempt to Murder), Motor Vehicles Act, Section 185 (Drunken Driving)",01-02-24,Delhi
+312,"Rammed a vehicle into a motorcycle, causing severe injuries, claiming it was unintentional.",Convicted; 5 years imprisonment,"Indian Penal Code, Section 307 (Attempt to Murder), Motor Vehicles Act, Section 184 (Negligent Driving)",05-02-24,Mumbai
+313,"Engaged in a high-speed chase with police, endangering lives.",Convicted; 10 years imprisonment,"Indian Penal Code, Section 307 (Attempt to Murder), Motor Vehicles Act, Section 183 (Reckless Driving)",12-03-24,Bengaluru
+314,Hit a car off the road intentionally after a road rage incident.,Convicted; 5 years imprisonment,"Indian Penal Code, Section 307 (Attempt to Murder), Motor Vehicles Act, Section 184 (Negligent Driving)",18-04-24,Chennai
+315,"Swerved into oncoming traffic to cut off a vehicle during a race, causing a collision.",Convicted; 8 years imprisonment,"Indian Penal Code, Section 307 (Attempt to Murder), Motor Vehicles Act, Section 183 (Reckless Driving)",25-05-24,Kolkata
+316,Rammed a cyclist off the road intentionally during a road dispute.,Convicted; 6 years imprisonment,"Indian Penal Code, Section 307 (Attempt to Murder), Motor Vehicles Act, Section 183 (Reckless Driving)",30-06-24,Hyderabad
+317,Shot at another car during a traffic altercation.,Convicted; 10 years imprisonment,"Indian Penal Code, Section 307 (Attempt to Murder), Motor Vehicles Act, Section 184 (Negligent Driving)",02-07-24,Pune
+318,"Pursued a vehicle aggressively, causing a dangerous crash, and attempted to flee the scene.",Convicted; 8 years imprisonment,"Indian Penal Code, Section 307 (Attempt to Murder), Motor Vehicles Act, Section 185 (Drunken Driving)",09-08-24,Ahmedabad
+319,"Struck a vehicle after a heated argument, resulting in severe injuries to the driver.",Convicted; 7 years imprisonment,"Indian Penal Code, Section 307 (Attempt to Murder), Motor Vehicles Act, Section 183 (Reckless Driving)",12-09-24,Chandigarh
+320,Attempted to run over a group of pedestrians in a crosswalk after a dispute.,Convicted; 9 years imprisonment,"Indian Penal Code, Section 307 (Attempt to Murder), Motor Vehicles Act, Section 184 (Negligent Driving)",15-10-24,Jaipur
+321,"Intentionally drove against traffic to intimidate another driver, causing a crash.",Convicted; 5 years imprisonment,"Indian Penal Code, Section 307 (Attempt to Murder), Motor Vehicles Act, Section 183 (Reckless Driving)",20-11-24,Lucknow
+322,Over-speeding in an attempt to block another car during a road rage incident.,Convicted; 6 years imprisonment,"Indian Penal Code, Section 307 (Attempt to Murder), Motor Vehicles Act, Section 183 (Reckless Driving)",25-12-24,Surat
+323,"Tried to hit a motorcyclist during a confrontation, causing him to fall off.",Convicted; 4 years imprisonment,"Indian Penal Code, Section 307 (Attempt to Murder), Motor Vehicles Act, Section 184 (Negligent Driving)",01-01-25,Kochi
+324,"Rammed into a car after a road dispute, causing injury to the passengers.",Convicted; 5 years imprisonment,"Indian Penal Code, Section 307 (Attempt to Murder), Motor Vehicles Act, Section 183 (Reckless Driving)",10-02-25,Bengaluru
+325,Drove at a high speed to deliberately cause a car to crash into a wall during an altercation.,Convicted; 6 years imprisonment,"Indian Penal Code, Section 307 (Attempt to Murder), Motor Vehicles Act, Section 184 (Negligent Driving)",18-03-25,Delhi
+326,Attempted to push a motorcyclist off the road while speeding in a road rage incident.,Convicted; 7 years imprisonment,"Indian Penal Code, Section 307 (Attempt to Murder), Motor Vehicles Act, Section 183 (Reckless Driving)",22-04-25,Mumbai
+327,"Used a vehicle to block another car, intentionally causing a crash.",Convicted; 8 years imprisonment,"Indian Penal Code, Section 307 (Attempt to Murder), Motor Vehicles Act, Section 183 (Reckless Driving)",15-05-25,Pune
+328,"Threatened to ram into a car after a traffic dispute, causing a crash.",Convicted; 5 years imprisonment,"Indian Penal Code, Section 307 (Attempt to Murder), Motor Vehicles Act, Section 184 (Negligent Driving)",20-06-25,Chennai
+329,"Drove on the wrong side of the road to cut off a rival, causing a major accident.",Convicted; 9 years imprisonment,"Indian Penal Code, Section 307 (Attempt to Murder), Motor Vehicles Act, Section 183 (Reckless Driving)",30-07-25,Kolkata
+330,Purposefully ran over a car in front of him in a fit of anger.,Convicted; 6 years imprisonment,"Indian Penal Code, Section 307 (Attempt to Murder), Motor Vehicles Act, Section 184 (Negligent Driving)",05-08-25,Hyderabad
+331,"Attempted to crush a motorcyclist after a dispute, causing serious injuries.",Convicted; 7 years imprisonment,"Indian Penal Code, Section 307 (Attempt to Murder), Motor Vehicles Act, Section 185 (Drunken Driving)",10-09-25,Bengaluru
+332,Aggressively tailgated a vehicle before colliding with it on purpose.,Convicted; 5 years imprisonment,"Indian Penal Code, Section 307 (Attempt to Murder), Motor Vehicles Act, Section 183 (Reckless Driving)",15-10-25,Ahmedabad
+333,"Tried to run over a pedestrian during an argument, resulting in serious injury.",Convicted; 8 years imprisonment,"Indian Penal Code, Section 307 (Attempt to Murder), Motor Vehicles Act, Section 184 (Negligent Driving)",25-11-25,Lucknow
+334,Drove through a red light intentionally to cause a crash with another vehicle.,Convicted; 5 years imprisonment,"Indian Penal Code, Section 307 (Attempt to Murder), Motor Vehicles Act, Section 190 (Traffic Signals)",01-12-25,Surat
+335,"Used his car to block another driver after a minor altercation, causing a collision.",Convicted; 7 years imprisonment,"Indian Penal Code, Section 307 (Attempt to Murder), Motor Vehicles Act, Section 183 (Reckless Driving)",20-01-26,Kochi
+336,"Tried to hit a cyclist with his vehicle after an argument, narrowly missing him.",Convicted; 6 years imprisonment,"Indian Penal Code, Section 307 (Attempt to Murder), Motor Vehicles Act, Section 184 (Negligent Driving)",22-02-26,Delhi
+337,Collided with another vehicle after trying to force it off the road intentionally.,Convicted; 9 years imprisonment,"Indian Penal Code, Section 307 (Attempt to Murder), Motor Vehicles Act, Section 185 (Drunken Driving)",05-03-26,Mumbai
+338,"Chased a person in a car, running them off the road and causing injuries.",Convicted; 10 years imprisonment,"Indian Penal Code, Section 307 (Attempt to Murder), Motor Vehicles Act, Section 183 (Reckless Driving)",15-04-26,Pune
+339,"Attempted to run over a pedestrian while speeding, causing a crash.",Convicted; 6 years imprisonment,"Indian Penal Code, Section 307 (Attempt to Murder), Motor Vehicles Act, Section 183 (Reckless Driving)",20-05-26,Chennai
+340,"Used his car to block another driver after a minor altercation, causing a collision.",Convicted; 7 years imprisonment,"Indian Penal Code, Section 307 (Attempt to Murder), Motor Vehicles Act, Section 183 (Reckless Driving)",20-01-26,Kochi
+336,"Tried to hit a cyclist with his vehicle after an argument, narrowly missing him.","Convicted; 6 years imprisonment","Indian Penal Code, Section 307 (Attempt to Murder), Motor Vehicles Act, Section 184 (Negligent Driving)",22-02-26,Delhi
+337,"Collided with another vehicle after trying to force it off the road intentionally.","Convicted; 9 years imprisonment","Indian Penal Code, Section 307 (Attempt to Murder), Motor Vehicles Act, Section 185 (Drunken Driving)",05-03-26,Mumbai
+338,"Chased a person in a car, running them off the road and causing injuries.","Convicted; 10 years imprisonment","Indian Penal Code, Section 307 (Attempt to Murder), Motor Vehicles Act, Section 183 (Reckless Driving)",15-04-26,Pune
