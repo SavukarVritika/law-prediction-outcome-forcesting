@@ -1,0 +1,116 @@
+Dataset and Algorithm Explanation for Law Prediction System
+================================================
+
+Dataset Structure
+----------------
+The dataset (draft_mini_dataset.csv) contains traffic violation cases with the following columns:
+1. Case Facts: Detailed description of the traffic violation incident
+2. Relevant Law: The specific section of Motor Vehicles Act that was applied
+3. Outcome: The judgment or penalty imposed
+4. Date: When the case was decided
+5. Location: Where the incident occurred
+
+Algorithm Implementation
+----------------------
+
+1. Text Processing
+-----------------
+Our system uses multiple levels of text processing:
+
+a) Text Normalization:
+   - Converts text to lowercase
+   - Removes punctuation and extra spaces
+   - Standardizes number formats
+   Example:
+   Original: "Driving at 80km/h in a school zone"
+   Normalized: "driving at 80 kilometers per hour in a school zone"
+
+b) Key Information Extraction:
+   The system extracts:
+   - Speed values (e.g., "80 km/h")
+   - Amount values (e.g., "Rs. 5,000")
+   - Contextual flags:
+     * Accidents/crashes
+     * Injuries
+     * Alcohol involvement
+     * License-related issues
+     * Parking violations
+   - Location types:
+     * School zones
+     * Hospital zones
+     * Residential areas
+     * Highways
+
+2. Matching Algorithm
+--------------------
+The system uses a multi-stage matching approach:
+
+a) Exact Match:
+   - First attempts to find exact matches after text normalization
+   - Provides highest confidence predictions
+
+b) Feature-Based Matching:
+   Assigns scores based on matching features:
+   - Speed matches (3 points)
+   - Amount matches (2 points)
+   - Context matches (1 point each):
+     * Accident involvement
+     * Injury presence
+     * Alcohol involvement
+     * License status
+     * Parking context
+   - Location type matches (2 points)
+
+c) Text Similarity Fallback:
+   - Uses TF-IDF vectorization for text similarity
+   - Computes similarity scores between cases
+   - Used when feature matching scores are low
+
+3. Confidence Levels
+-------------------
+Predictions are categorized into:
+- Exact Match: Direct text match found
+- High Confidence: Score >= 8 points
+- Medium Confidence: Score >= 5 points
+- Fallback: Using TF-IDF similarity for low scores
+
+4. Model Persistence
+-------------------
+The system saves:
+- Processed cases
+- TF-IDF vectorizer
+- TF-IDF matrix
+These are stored in model.joblib for quick loading.
+
+Usage Examples
+-------------
+1. High Confidence Match:
+   Input: "Driver caught speeding at 120 km/h in 60 km/h zone"
+   - Extracts speeds: 120, 60
+   - Identifies context: speeding
+   - Matches similar cases with same speeds
+   
+2. Medium Confidence Match:
+   Input: "Parking violation near hospital entrance"
+   - Identifies: parking + hospital_zone
+   - Matches cases with similar context
+   
+3. Fallback Case:
+   Input: "Vehicle caused obstruction"
+   - No specific features matched
+   - Uses text similarity to find closest case
+
+Dataset Requirements
+-------------------
+For optimal performance, cases should include:
+1. Specific measurements (speeds, amounts)
+2. Clear violation descriptions
+3. Contextual information (location, circumstances)
+4. Standardized law references
+5. Consistent outcome formats
+
+This implementation focuses on:
+- Accuracy through multi-level matching
+- Robustness through fallback mechanisms
+- Explainability through confidence levels
+- Easy maintenance through modular design
